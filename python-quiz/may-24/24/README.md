@@ -23,14 +23,3 @@ No arguments
 
 #### Answer: 1
 [Solution Video](#)
-
-## Question 3:
-What will be the output?
-1. class variable
-class variable
-2. Error
-3. None
-4. self is not defined
-
-#### Answer: 1
-[Solution Video](#)
